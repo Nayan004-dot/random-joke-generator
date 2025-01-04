@@ -1,0 +1,39 @@
+*{
+    margin : none;
+    padding : none;
+}
+body{
+    background-color:#D5B60A;
+    
+}
+.container{
+   height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D5B60A;
+}
+.jokeBox{
+    height: 400px;
+    width : 275px;
+    background-color: black;
+    border-radius: 2rem;
+    color: bisque;
+    display: grid;
+    place-items: center;
+padding-left: 15px;
+padding-right: 15px;
+padding-bottom: 15px;
+}
+.laughing_emoji{
+    height: 200px;
+    width : 200px;
+    background-image: url("/laughgingemo.png");
+    background-size: cover;
+    
+}
+.generate{
+   height: 25px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+   background-color: #D5B60A;
+}
