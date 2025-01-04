@@ -28,7 +28,7 @@ padding-bottom: 15px;
 .laughing_emoji{
     height: 200px;
     width : 200px;
-    background-image: url("/laughgingemo.png");
+    background-image: url("https://imgs.search.brave.com/aehI4fJEPoiN4QsBWdMtCh49wXdgzb2xSf3tlfKZBbo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nbWFydC5jb20v/ZmlsZXMvMTIvTGF1/Z2hpbmctRW1vamkt/UE5HLVBpYy5wbmc");
     background-size: cover;
     
 }
